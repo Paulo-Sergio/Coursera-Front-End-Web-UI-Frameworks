@@ -39,13 +39,6 @@ body{
     background: #7986CB ;
     color:floralwhite;
 }
-#reserve-table {
-    position: relative;
-}
-#reserve-table button{
-    position: absolute;
-    top: 50%;
-}
 
 /*----------------------------------
 -----------FORMAT ROWS--------------
